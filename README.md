@@ -12,7 +12,7 @@
 * **Nome do(a) Aluno(a) 2:** [Gabriel Henrique]
 * **Matrícula do(a) Aluno(a) 2:** [878933]
 * **Linguagem de Programação:** C
-* **Link do Repositório GitHub (Opcional, mas recomendado):** [Cole o link do seu repositório aqui]
+* **Link do Repositório GitHub:** [[Cole o link do seu repositório aqui](https://github.com/bvinhal01/slem_project.git)]
 
 ## 2. Visão Geral do Sistema (SLEM)
 
