@@ -264,3 +264,5 @@ Para entregar o trabalho, você precisará compactar a pasta `slem_project` (que
     Isso criará o arquivo `slem_project.zip` contendo toda a sua pasta de projeto.*/
 
 /* Certifique-se de incluir a documentação (`.md` ou `.pdf` se você exportar) dentro da pasta `slem_project` antes de compactar, ou ao lado dela para facilitar a entrega. A proposta diz para entregar a documentação do software e o código em C ou C++. */
+
+/* Conteudo corrigido por AI */
