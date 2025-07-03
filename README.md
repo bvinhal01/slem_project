@@ -30,7 +30,7 @@ Apresente a evolução do backlog do produto semana a semana. Indique as tarefas
 | :----- | :------------------------- | :--------------------------------- | :-------------- | :---------------------------------- | :---------- |
 | 1      | 01/07 - 03/07              | - Definição structs (Local, Veiculo, Pedido) <br> - Criar Local <br> - Listar Locais <br> - Esqueleto do Menu | [Bernardo Vinhal de Carvalho Teixeira] / [Nome do Membro 2] | Concluído                           | Base para o sistema. |
 | 2      | 04/07 - 06/07              | - Atualizar Local <br> - Excluir Local <br> - Criar Veículo <br> - Testes automatizados para Locais (Criar, Listar) | [Nome do Membro 1]                  | Concluído                           | ...         |
-| 3      | 07/07 - 09/07              | [Últimas consideraões] | [Bernardo Vinhal de Carvalho Teixeira] | Em Andamento                        | [Finalziação do trabalho] |
+| 3      | 07/07 - 09/07              | [Últimas consideraões] | Correções de posssiveis bugs     | [Finalziação do trabalho] |
 | ...    | ...                        | ...                                | ...             | ...                                 | ...         |
 
 ### 3.2. Evidências do Uso do Scrum
